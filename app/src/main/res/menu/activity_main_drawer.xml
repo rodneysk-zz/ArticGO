@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Dados do Jogador">
+        <menu>
+            <item
+                android:id="@+id/nav_redefinir_nome"
+                android:icon="@drawable/nome"
+                android:title="Nome" />
+            <item
+                android:id="@+id/nav_redefinir_senha"
+                android:icon="@drawable/senha"
+                android:title="Senha" />
+            <item
+                android:id="@+id/nav_conquistas"
+                android:icon="@drawable/conquista"
+                android:title="Conquistas" />
+        </menu>
+    </item>
+
+    <item android:title="Informações">
+        <menu>
+            <item
+                android:id="@+id/nav_sobre"
+                android:icon="@drawable/sobre"
+                android:title="Sobre" />
+        </menu>
+    </item>
+
+    <item android:title="Aplicativo">
+        <menu>
+            <item
+                android:id="@+id/nav_excluir"
+                android:icon="@drawable/excluir"
+                android:title="Excluir Conta" />
+            <item
+                android:id="@+id/nav_sair"
+                android:icon="@drawable/sair"
+                android:title="Sair" />
+        </menu>r
+    </item>
+
+</menu>

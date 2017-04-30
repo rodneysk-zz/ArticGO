@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/colorAccent"
+    android:paddingBottom="10dp"
+    android:paddingRight="10dp"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:weightSum="1">
+
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:id="@+id/imageView2"
+            android:layout_gravity="left|center_horizontal"
+            android:background="@drawable/logo_transparente"
+            android:layout_marginLeft="25dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Atençao!\nDigite o código que enviamos para seu e-mail"
+            android:id="@+id/textView24"
+            android:textSize="18dp"
+            android:textColor="#ffffff"
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1.37" />
+
+    </LinearLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorButtonNormal"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:hint="Código"
+            android:ems="10"
+            android:id="@+id/txtCodigo"
+            android:layout_weight="0.56" />
+
+    </android.support.design.widget.TextInputLayout>
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="10dp">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:text="CONFIRMAR"
+            android:id="@+id/btnConfirmar"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textSize="14dp"
+            android:background="#f1a803"
+            android:textColor="#ffffff" />
+
+    </LinearLayout>
+
+</LinearLayout>

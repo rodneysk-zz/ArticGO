@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary"
+    android:paddingBottom="10dp"
+    android:paddingRight="10dp"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:weightSum="1">
+
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:id="@+id/imageView2"
+            android:layout_gravity="left|center_horizontal"
+            android:background="@drawable/logo_transparente"
+            android:layout_marginLeft="25dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Atençao!\nDigite seu e-mail para continuar"
+            android:id="@+id/txtAtencao"
+            android:textSize="18dp"
+            android:textColor="#ffffff"
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1.37" />
+
+    </LinearLayout>
+
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorButtonNormal"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp">
+
+        <AutoCompleteTextView
+            android:id="@+id/textoEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/prompt_email"
+            android:inputType="textEmailAddress"
+            android:maxLines="1"
+            android:singleLine="true"
+            android:textColorHighlight="?attr/editTextColor"
+            android:pointerIcon="none" />
+
+    </android.support.design.widget.TextInputLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="10dp">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:text="CANCELAR"
+            android:id="@+id/btnCancelar"
+            android:layout_weight="1"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:textSize="14dp"
+            android:background="#f1a803"
+            android:textColor="#ffffff"
+            android:layout_height="40dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:text="ENVIAR"
+            android:id="@+id/btnConfirmar"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:gravity="center"
+            android:textSize="14dp"
+            android:background="#f1a803"
+            android:textColor="#ffffff" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "84699473716",
+    "firebase_url": "https://artic-go.firebaseio.com",
+    "project_id": "artic-go",
+    "storage_bucket": "artic-go.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84699473716:android:668ffcbd4dc7a26c",
+        "android_client_info": {
+          "package_name": "com.articgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84699473716-7ojaa5mck5k7ekt43v5er7ami8d35sbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD50uHDufnfG9Vx9Q1ug8wsOPSkfQCfgV4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

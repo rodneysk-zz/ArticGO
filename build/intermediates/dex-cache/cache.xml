@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3dce8a0f874d53c3bc750b6b54701ba3f2abd6a8">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_177ae53570cb1989b186113caae17ea0c47d5b00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\.android\build-cache\c48d941d5ad150ac45d91a4da923b633aeedd0a2\output\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_09783870c246af6a57cea1ba057bb116cf515f34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\.android\build-cache\be857d1672cd868d3bb4d244437fe43179f92462\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e9d5e808152f16abb8fc677553d71077c3077ef6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\.android\build-cache\50373c37a8190c4b0302647e9f911bd619959df6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4054f18e4e7d1c148fa71ded4b17348428273e21">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d394bea4101d5b186d3ff30bcff159c0a9a4008e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\.android\build-cache\95ffc9ee0ae7aca308fd058b042983dceed0eefa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f17ac0bf383276a8fc5e94c1091e4137983bef61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_0ae653f574ae83fb54530a0cd70642cdfac37a8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\.android\build-cache\0e159baf20a2a342222986f3e73e27589a539591\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b89ebd8e384a222e89ff89dcb8f58baa7944ec1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\libs\activation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\2\activation_5c6b732b45a8b8815a6dcb5a22c8d67a1cd53510\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\.android\build-cache\d0dc81460e57ead08ad57024e314e7bd748c0474\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7df3f1ca12ab7c576fc5faf0aa50d6500a8964a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\.android\build-cache\2ece7d9e88515c2080ba0a58c2e2c675551e7103\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9204dc2c9562a91e7c2db87bde641a3844396eda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a1073f1c217dc40f2008987a7cccea5a748d8196\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\.android\build-cache\3c7ea8bf84a7e068d868e7fe93cc2886d661e688\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_080b7c36bfc662b3a880e2ce65ce88e36c7a6036\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\.android\build-cache\6cb37bf998e5bd90a01faa3f086e2fcbcf7751cd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_606f60b5abc9b0cf443d7e52726efc8c0b68d845\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\.android\build-cache\5ad5c7bdc9d60c5fd3312659c96b427a444003e8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_741e346f581460bd309335324959477d602dbb01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\.android\build-cache\1812cc4c32989e9c603935a0810cb2e651f8a496\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6320445a7438321cdf32f75545581821f5759cf3">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad347e8d872e36b1269a8dad1e6f4303d4631952\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\libs\additionnal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\2\additionnal_7263670ccd1ceaeccdab87a02a4ab041c1c55d7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\.gradle\caches\modules-2\files-2.1\com.sun.mail\android-activation\1.5.5\5442d5e05808145434b750c9f8a0c3f537383c5a\android-activation-1.5.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5442d5e05808145434b750c9f8a0c3f537383c5a">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-activation-1.5.5_b988779e030e349549a5183444554c276191944c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\.android\build-cache\24099428dd37841338e814213d13d9c3909a9353\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_59b42bb2a76a467afbc5c29c991287ae8b20dc44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\.android\build-cache\b2f87c3c262948766274122fe827742a27403de2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d61aab2e9aed4481616b6081cd88d2b33d9b1899\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\.android\build-cache\f8f2972db1fa5bc8eb9ee846d994d2a3bee9f61f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_31ed286ef7bdf7ce367286c0a5bb16a66ea565a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\.gradle\caches\modules-2\files-2.1\com.sun.mail\android-mail\1.5.5\53a2f927b235acb565dbe9314ececfb7e6d43020\android-mail-1.5.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53a2f927b235acb565dbe9314ececfb7e6d43020">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-mail-1.5.5_783109f98c756bcc5cb4d0df3d5b7eb4e850bc23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\.android\build-cache\769b54a50988582e3c63f1c57a685a7103583985\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_de39ff7b3fb1993fbb37e0cb1888bbe0d1545039\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\.android\build-cache\c48d941d5ad150ac45d91a4da923b633aeedd0a2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7c8a4b6eab9b1402ef6b3d10b5dabf4a8b63930e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\.android\build-cache\646dd9ffafbfff2a97fb86ea2f36887c33861bbd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6c64026f3cfe34924c1ccddb8a977241038bc301\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\.android\build-cache\43d7ed155e6748ef14e517cd6b4f9608f259304d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0e5dd86a212f1ac7c9b769f24ed96b7ed593d870\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\.android\build-cache\692b7cef101b4ec23703e85a46da028857505826\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d56848b0aae0f6a956fe7d2d2e4984640e773d47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\.android\build-cache\44fa7482f0e9af13ebcc7eb6f9bed254693f6f84\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2f2ca52c318de11e5515e6789fc7068b889d2192\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\libs\mail.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\2\mail_7ce9227d8b0141287daa05d12a577bb20f1e45d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\.android\build-cache\7d4311bce94dd080af4c31a051713339373ba589\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_97ee51d137b5ea938cd58993c838b69114a06329\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rodney\.android\build-cache\a1c6cd2d3d6b2483e3dab39fa72e0486044aac5a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="C:\Users\Rodney\Desktop\Rodney\Ifes\AndroidStudio\ArticGo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc8cd43c37196d22e48e3af09c429f9a73458593\classes.dex" />
+    </item>
+
+</items>
